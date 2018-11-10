@@ -1,2 +1,2 @@
-# gllacy.github.io
-Проект Глэйси
+# [gllacy](https://mygit84.github.io/gllacy.github.io/)
+
